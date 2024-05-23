@@ -8,7 +8,10 @@
 
 .min-heigth {
     min-height: 75%;
-    background-color: brown;
+}
+
+.start {
+    justify-content: flex-start;
 }
 
 .column {
