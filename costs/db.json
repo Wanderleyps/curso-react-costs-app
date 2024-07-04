@@ -171,6 +171,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "dfdb",
+      "name": "teste",
+      "budget": "22",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
